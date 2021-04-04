@@ -9,3 +9,9 @@ body {
 .subtitle {
   font-size: 4rem;
 }
+
+@media all and (max-width: 500px) {
+  body {
+    color: blue;
+  }
+}
